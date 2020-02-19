@@ -44,6 +44,27 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },
+    {
+        username: "Janedoe",
+        thumbnailUrl: 'https://images.pexels.com/photos/1102341/pexels-photo-1102341.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1120',
+        imageUrl: 'https://images.pexels.com/photos/247206/pexels-photo-247206.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260',
+        likes: 9827,
+        timestamp: "March 45th 1025 AC, 25:61:89 pm",
+        comments: [
+            {
+                username: "Janedoe",
+                text: "Photoshot today!"
+            },
+            {
+                username: "biancasaurus",
+                text: ":heart_eyes::heart_eyes:"
+            },
+            {
+                username: "dan_fitz",
+                text: "looks great!"
+            }
+        ]
     }
 ];
 
